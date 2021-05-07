@@ -1,0 +1,49 @@
+body {
+  margin-left: 300px;
+}
+
+h1 {
+  font-family: 'Ubuntu', sans-serif;
+}
+
+#areacalculation {
+  font-family: 'Ubuntu', sans-serif;
+  color: #e63946;
+}
+
+#circumferencecalculation {
+  font-family: 'Ubuntu', sans-serif;
+  color: #48bfe3;
+}
+img {
+  width: 25%;
+  float: right;
+  margin-right: 250px;
+}
+
+#area {
+  background-color: white;
+  margin-left: 25px;
+  color: black;
+  font-family: 'Ubuntu', sans-serif;
+  border: 2px solid #e63946;
+  border-radius: 12px;
+  padding: 10px 40px;
+}
+
+#circumference {
+  background-color: white;
+  margin-left: 25px;
+  color: black;
+  font-family: 'Ubuntu', sans-serif;
+  border: 2px solid #48bfe3;
+  border-radius: 12px;
+  padding: 10px 40px;
+}
+
+.warning {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 16px;
+  border: 2px solid #ffd60a;
+  width: 395px;
+}
